@@ -1,7 +1,5 @@
 [
-  { "username": "SheldonCooper", "highScore": 9999 },
-  { "username": "BillyMitchell", "highScore": 950 },
-  { "username": "Ibai", "highScore": 450 },
-  { "username": "Dory", "highScore": 5 },
-  { "username": "PierreNodoyuna", "highScore": 1 }
+  { "username": "Gaelinho", "diners": 10.000 },
+  { "username": "Pedrito", "diners": 1.000 },
+  { "username": "Arnau", "diners": 100 },
 ]
